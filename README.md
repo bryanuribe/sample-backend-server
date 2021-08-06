@@ -1,6 +1,6 @@
 # sample-backend-server
 
 ```
-** npm install**
-** node index.js**
+npm install
+node index.js
 ```
